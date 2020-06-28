@@ -1,1 +1,2 @@
-# code the #greeting method here!
+def greeting(name)
+  end# code the #greeting method here!
